@@ -1,2 +1,2 @@
 # Data Structures with Java
-Codes and notes from Data Structures I'm currently working on
+The notes taken from while I was studying [Data Structures (Ceng 112)](https://ceng.iyte.edu.tr/courses/ceng-112/).
